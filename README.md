@@ -80,7 +80,3 @@ Role-protected routes require the `token` cookie. Create an account with the mat
 - `src/services/` — ImageKit upload integration
 - `src/db/` — MongoDB connection
 
-## 📝 Notes
-
-- The `npm test` script is currently a placeholder; no automated test suite is configured yet.
-- Never commit real `.env` values, database credentials, or API keys.
