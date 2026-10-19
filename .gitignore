@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Dependencies and generated files
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local/editor and operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
